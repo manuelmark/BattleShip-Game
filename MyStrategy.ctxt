@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyStrategy()
+comment0.text=\r\n\ Creates\ a\ new\ MyStrategy\ object.\r\n\ Does\ nothing.\r\n
+comment1.params=
+comment1.target=boolean\ canPlayDeviously()
+comment1.text=\r\n\ One\ does\ not\ simply\ play\ a\ game\ of\ BattleShip\!\r\n\ @return\ One\ actually\ does\ simply\ play\ a\ game\ of\ \r\n\ BattleShip.\r\n
+comment2.params=currentState
+comment2.target=sofia.battleship.CallShotMove\ callNextShot(sofia.battleship.GameState)
+comment2.text=\r\n\ One\ does\ not\ simply\ start\ a\ game\ of\ BattleShip\!\r\n\ and\ make\ lousy\ moves.\ Hence,\ one\ call(s)NextShot\ (\!).\r\n\ \r\n\ \r\n\ @param\ currentState\ \ dispalys\ the\ current\ state\ of\ the\ board.\r\n\ @return\ The\ next\ epic\ move\ that\ one\ makes\ to\ PWN\ dumb\ AI's.\r\n
+comment3.params=currentState
+comment3.target=sofia.battleship.ShipPlacementMove\ placeShips(sofia.battleship.GameState)
+comment3.text=\r\nOne\ does\ not\ simply\ start\ a\ game\ of\ BattleShip\!\r\nand\ place\ one's\ ships\ in\ a\ predictable\ and\ boring\ fashion.\r\nUnless,\ ofcourse\ one\ has\ only\ two\ hours\ left\ to\ submit\ one's\ \r\nassignment\ and\ one\ is\ tired\ and\ one\ just\ wants\ to\ get\ done\ with\ one's\ \r\nassignment.\ For\ times\ such\ as\ this,\ one\ creates\ and\ then\ call(s)\r\nplaceShips\ function\ (boooring\!).\r\n\r\n@param\ currentState\ \ dispalys\ the\ current\ state\ of\ the\ board.\r\n@return\ the\ position\ of\ the\ ships\ that\ you\ tried\ to\ not\ place\ in\ place\r\nin\ a\ predictable\ and\ boring\ fashion,\ but\ then\ you\ did.\ \r\n
+comment4.params=
+comment4.target=void\ newGame()
+comment4.text=\r\n\ One\ does\ not\ simply\ start\ a\ game\ of\ BattleShip\!\r\n\ without...\ starting\ a\ game\ of\ BattleShip\!.\ Hence,\ one\ calls\ \r\n\ newGame.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment5.text=\r\n\ One\ does\ not\ simply\ start\ a\ game\ of\ BattleShip\!\r\n\ without\ having\ an\ uberic\ username.\ Hence,\ one\ calls\ \r\n\ getName.\r\n\ @return\ your\ awesome\ username\ (My\ awesome\ username,\ actually)\ \r\n
+numComments=6

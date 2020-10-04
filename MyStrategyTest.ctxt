@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyStrategyTest()
+comment0.text=\r\n\ Creates\ a\ new\ MyStrategyTest\ test\ object.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ testcanPlayDeviously()
+comment2.text=\r\n\ Tests\ whether\ one\ can\ play\ deviously.\r\n\ Turns\ out\ one\ can't.\r\n
+comment3.params=
+comment3.target=void\ testcallNextShot()
+comment3.text=\r\n\ Tests\ whether\ one\ is\ making\ (un)lousy\ moves\r\n\ by\ calling\ callNextShot.\r\n
+comment4.params=
+comment4.target=void\ testgetName()
+comment4.text=\r\n\ Tests\ whether\ one\ has\ an\ epic\ username.\r\n\ Turns\ out\ one\ does.\r\n
+comment5.params=
+comment5.target=void\ testplaceShips()
+comment5.text=\r\n\ Tests\ ship\ placement.\ \r\n
+numComments=6
